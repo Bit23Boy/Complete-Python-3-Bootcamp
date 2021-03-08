@@ -1,0 +1,11 @@
+Integers= type=int= 3, 300, 200
+Floating point= type= float2.3 4.6 100.0
+Strings str="hello" 'Sammy' "2000' 
+lists= type=list [10, "hello", 200.3]
+dictionaries= type=dict ("mykey" : "value", "name": Frankie)
+Tupies= type= tup (10, "hello", 200.3
+Sets= type=set ("a","b")
+Booleans= type bool = True or false
+
+
+
