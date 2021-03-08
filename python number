@@ -1,0 +1,29 @@
+number = in[]:
+equal = out[]
+in[]2+1
+out[] 3
+in[] 2-1
+out[] 1
+in[]2*2
+out[]4
+in[]3/2
+out[]1.5
+
+Modulo or "Mod" Operator
+
+in[]: 7 / 4
+out[24]: 1.75
+in[] 7 % 4
+out[]: 3
+in[]: 50 % 5
+out[]: 0
+in[]: 23 % 2
+out[]: 1
+in[]20 % 2
+out[]0
+in[]: 2^3
+out[]: 8
+2 + 10 * 10 + 3
+105
+(2+10) * (10 + 3)
+156
